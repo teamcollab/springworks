@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "springworks",
+    "packageName": "org.teamcollab.springworks",
+    "packageFolder": "org/teamcollab/springworks",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "42abb179ae699976ca7e1265383efc4417cc334a"
+  }
+}
